@@ -1,6 +1,6 @@
 # Node: sesion de usuario 
 # Con la version 22 de node. Se pone node --run dev
-# Trabajamos con Yaak una version comoda en compracion con postman
+# Trabajamos con Yaak una version comoda en comparacion con postman
 # Trabajamos en el puerto 3000
 
 1.- Instalación del proyecto.
