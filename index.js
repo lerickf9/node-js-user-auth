@@ -16,9 +16,9 @@ app.post('/login', (req, res)=> {
     //res.json({ user: 'Erick'})
 }) 
 
-app.post('/register', (req, res)=> {
+app.post('/register', (req, res) => {
     const { username, password } = req.body // ???
-    console.log(req.body)
+    console.log({ username, password })
 
     try{
         const id = UserRepository.create({ username, password})
