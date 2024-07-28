@@ -2,6 +2,7 @@
 # Con la version 22 de node. Se pone node --run dev
 # Trabajamos con Yaak una version comoda en comparacion con postman
 # Trabajamos en el puerto 3000
+# npm install bcrypt. hasheamos el password.
 
 1.- Instalación del proyecto.
 2.- Usuarios en base de datos.
@@ -15,4 +16,4 @@
 10.- Cerrar sesión.
 11.- Refresh Token.
 12.- Más adelante: Passport y y OAuth 2.0 
-"# node-js-user-auth" 
+"# node-js-user-auth"

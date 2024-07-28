@@ -15,7 +15,9 @@
     "standard": "17.1.0"
   },
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "db-local": "^3.1.0",
+    "ejs": "^3.1.10",
     "express": "4.19.2"
   },
   "eslintConfig": {
