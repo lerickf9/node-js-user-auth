@@ -3,6 +3,8 @@
 # Trabajamos con Yaak una version comoda en comparacion con postman
 # Trabajamos en el puerto 3000
 # npm install bcrypt. hasheamos el password.
+# npm install jsonwebtoken.
+# npm install cookie-parser
 
 1.- Instalación del proyecto.
 2.- Usuarios en base de datos.
